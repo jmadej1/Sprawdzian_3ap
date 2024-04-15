@@ -3,7 +3,7 @@ var liczbaA = document.getElementById('liczbaA');
 var liczbaB = document.getElementById('liczbaB');
 function dodawanie()
 {
-    wynik.innerHTML="Wynik: "+parseInt(liczbaA.value)+parseInt(liczbaB.value);
+    wynik.innerHTML= "Wynik: "+parseInt(liczbaA.value)+parseInt(liczbaB.value);
 }
 function odejmowanie()
 {
